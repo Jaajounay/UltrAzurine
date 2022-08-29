@@ -1,0 +1,29 @@
+{
+  "name": "ultrazurine",
+  "version": "1.0.0",
+  "description": "A discord bot written on discord.js V14 for Ouistiti's server",
+  "main": "Sources/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaajounay/ultrazurine.git"
+  },
+  "keywords": [
+    "bot",
+    "azurine",
+    "ultrazurine",
+    "jaajounay",
+    "jaajounet",
+    "ouistiti",
+    "singe",
+    "monkey"
+  ],
+  "author": "Ouistiti, Jaajounet, Dan, STMP, Alex",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jaajounay/ultrazurine/issues"
+  },
+  "homepage": "https://github.com/jaajounay/ultrazurine#readme"
+}
